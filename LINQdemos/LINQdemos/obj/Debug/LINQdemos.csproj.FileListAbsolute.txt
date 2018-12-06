@@ -1,0 +1,7 @@
+C:\Users\Cyberadmin\Desktop\LINQdemos\LINQdemos\bin\Debug\LINQdemos.exe.config
+C:\Users\Cyberadmin\Desktop\LINQdemos\LINQdemos\bin\Debug\LINQdemos.exe
+C:\Users\Cyberadmin\Desktop\LINQdemos\LINQdemos\bin\Debug\LINQdemos.pdb
+C:\Users\Cyberadmin\Desktop\LINQdemos\LINQdemos\obj\Debug\LINQdemos.csprojAssemblyReference.cache
+C:\Users\Cyberadmin\Desktop\LINQdemos\LINQdemos\obj\Debug\LINQdemos.csproj.CoreCompileInputs.cache
+C:\Users\Cyberadmin\Desktop\LINQdemos\LINQdemos\obj\Debug\LINQdemos.exe
+C:\Users\Cyberadmin\Desktop\LINQdemos\LINQdemos\obj\Debug\LINQdemos.pdb
