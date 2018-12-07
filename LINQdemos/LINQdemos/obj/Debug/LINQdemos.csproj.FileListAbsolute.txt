@@ -5,3 +5,10 @@ C:\Users\Cyberadmin\Desktop\LINQdemos\LINQdemos\obj\Debug\LINQdemos.csprojAssemb
 C:\Users\Cyberadmin\Desktop\LINQdemos\LINQdemos\obj\Debug\LINQdemos.csproj.CoreCompileInputs.cache
 C:\Users\Cyberadmin\Desktop\LINQdemos\LINQdemos\obj\Debug\LINQdemos.exe
 C:\Users\Cyberadmin\Desktop\LINQdemos\LINQdemos\obj\Debug\LINQdemos.pdb
+G:\C#\CSharpLINQdemos\LINQdemos\LINQdemos\bin\Debug\LINQdemos.exe.config
+G:\C#\CSharpLINQdemos\LINQdemos\LINQdemos\bin\Debug\LINQdemos.exe
+G:\C#\CSharpLINQdemos\LINQdemos\LINQdemos\bin\Debug\LINQdemos.pdb
+G:\C#\CSharpLINQdemos\LINQdemos\LINQdemos\obj\Debug\LINQdemos.csprojAssemblyReference.cache
+G:\C#\CSharpLINQdemos\LINQdemos\LINQdemos\obj\Debug\LINQdemos.csproj.CoreCompileInputs.cache
+G:\C#\CSharpLINQdemos\LINQdemos\LINQdemos\obj\Debug\LINQdemos.exe
+G:\C#\CSharpLINQdemos\LINQdemos\LINQdemos\obj\Debug\LINQdemos.pdb
